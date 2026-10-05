@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="cor_app_imc">#4CA6D5</color>
+    <color name="classificacao_verde">#399B6F</color>
+    <color name="classificacao_laranja">#FF5722</color>
+    <color name="classificacao_vermelho">#CC1818</color>
 </resources>
